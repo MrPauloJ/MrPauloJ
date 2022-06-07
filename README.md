@@ -23,10 +23,12 @@ Me Chamo Paulo e aqui compartilho um pouco dos meus projetos
 </div>
 
 ### Contato
-<div>
-  <a href="https://www.linkedin.com/in/mrpauloj" target="_blank"><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-  <a href="malito:paulfsilva7@gmail.com" target="_blank"><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
-</div>
+<a href="https://www.linkedin.com/in/mrpauloj" target="blank" alt="LinkedIn">
+  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+<a href="malito:paulfsilva7@gmail.com" target="blank" alt="Email">
+  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+</a>
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrpauloj&show_icons=true&theme=dark)
