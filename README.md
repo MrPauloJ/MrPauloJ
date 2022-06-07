@@ -1,5 +1,5 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right">
-
+<!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right">-->
+<img src="https://trosleihard.000webhostapp.com/4401278.png" width="400px" align="right">
 
 ### Opa! Bem vindo ao meu GitHub 👋
 Me Chamo Paulo e aqui compartilho um pouco dos meus projetos
@@ -19,7 +19,13 @@ Me Chamo Paulo e aqui compartilho um pouco dos meus projetos
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+</div>
 
+### Contato
+<div>
+  <a href="https://www.linkedin.com/in/mrpauloj" target="_blank"><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  <a href="malito:paulfsilva7@gmail.com" target="_blank"><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
 </div>
 
 <!--
