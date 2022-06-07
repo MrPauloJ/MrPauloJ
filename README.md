@@ -1,7 +1,7 @@
 <!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right">-->
 <img src="https://trosleihard.000webhostapp.com/4401278.png" width="400px" align="right">
 
-### Opa! Bem vindo ao meu GitHub 👋
+### Hey! Bem vindo ao meu GitHub 👋
 Me Chamo Paulo e aqui compartilho um pouco dos meus projetos
 
 - 🧘‍♂️ FullStack Developer
@@ -23,13 +23,11 @@ Me Chamo Paulo e aqui compartilho um pouco dos meus projetos
 </div>
 
 ### Contato
-<a href="https://www.linkedin.com/in/mrpauloj" target="blank" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/mrpauloj" target="blank">
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-<a href="malito:paulfsilva7@gmail.com" target="blank" alt="Email">
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
-</a>
+</a> &nbsp; or paulfsilva7@gmail.com
 
+### ...
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrpauloj&show_icons=true&theme=dark)
 
