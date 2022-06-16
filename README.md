@@ -8,7 +8,7 @@ Me Chamo Paulo e aqui compartilho um pouco dos meus projetos
 - 🤌 Data Scientist
 
 ### Skills
-<div>
+<div align="center">
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />  
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
@@ -23,12 +23,24 @@ Me Chamo Paulo e aqui compartilho um pouco dos meus projetos
 </div>
 
 ### Contato
+<div align="center">
 <a href="https://www.linkedin.com/in/mrpauloj" target="blank">
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a> &nbsp; or paulfsilva7@gmail.com
+</a> 
+<a href="malito:paulfsilva7@gmail.com" target="blank">
+  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+</a> 
+</div>
+<!--
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/mrpauloj)</a>
+-->
 
 ### ...
+
 <!--
+[![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:stephanyn7@gmail.com)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrpauloj&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpauloj&layout=compact&theme=dark)](https://github.com/mrpauloj/github-readme-stats)
