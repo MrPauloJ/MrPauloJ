@@ -1,5 +1,5 @@
 <!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right">-->
-<img src="https://trosleihard.000webhostapp.com/4401278.png" width="400px" align="right">
+<!--<img src="https://trosleihard.000webhostapp.com/4401278.png" width="400px" align="right">
 
 ### Hey! Bem vindo ao meu GitHub 👋
 Me Chamo Paulo e aqui compartilho um pouco dos meus projetos
@@ -34,7 +34,7 @@ Me Chamo Paulo e aqui compartilho um pouco dos meus projetos
 <!--
 [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/mrpauloj)</a>
 -->
-
+<!--
 ### ...
 
 <!--
