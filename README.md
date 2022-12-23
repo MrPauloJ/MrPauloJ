@@ -6,7 +6,7 @@
 ### Hey! Welcome to my GitHub 👋
 I'm Paulo, <br>
 Economics undergrad student at (UFPE).<br>
-Interested in art, economics nad IT.<br> 
+Interested in art, economics and IT.<br> 
 Curious about everything.<br>
 <br>
 Here is the repository of my projects.<br>
@@ -14,6 +14,7 @@ I hope you enjoy it, at least a little bit.
 
 - 🧘‍♂️ FullStack Developer
 - 🤌 Data Scientist
+- :atom: CyberSec
 
 ### Skills
 <!--
