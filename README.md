@@ -1,10 +1,12 @@
 <!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right">-->
 <!--<img src="https://trosleihard.000webhostapp.com/4401278.png" width="400px" align="right">-->
 
+<img src="https://github.com/MrPauloJ/MrPauloJ/blob/main/4401278.png?raw=true" width="400px" align="right">
+
 ### Hey! Welcome to my GitHub 👋
 I'm Paulo, <br>
 An economics undergrad student at Federal University of Pernambuco (UFPE).<br>
-Interested in art, finance, economics, IT, and curious about everything.<br>
+Interested in art, finance, economics, music, IT, and curious about everything.<br>
 Here is the repository of my projects.<br>
 I hope you enjoy it, at least a little bit.
 
@@ -28,7 +30,7 @@ I hope you enjoy it, at least a little bit.
 </div>
 -->
 - Mostly worked with: Python, php, Java, HTML, Css, JavaScript, SQL.<br>
-- Some knowledge in: Angular, MATLAB.
+- Some knowledge in: Angular, MATLAB, cyber and network theory.
 
 ### Get in touch
 - Email: paulfsilva7@gmail.com
