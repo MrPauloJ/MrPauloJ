@@ -1,13 +1,18 @@
 <!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right">-->
-<!--<img src="https://trosleihard.000webhostapp.com/4401278.png" width="400px" align="right">
+<!--<img src="https://trosleihard.000webhostapp.com/4401278.png" width="400px" align="right">-->
 
-### Hey! Bem vindo ao meu GitHub 👋
-Me Chamo Paulo e aqui compartilho um pouco dos meus projetos
+### Hey! Welcome to my GitHub 👋
+I'm Paulo, <br>
+An economics undergrad student at Federal University of Pernambuco (UFPE).<br>
+Interested in art, finance, economics, IT, and curious about everything.<br>
+Here is the repository of my projects.<br>
+I hope you enjoy it, at least a little bit.
 
 - 🧘‍♂️ FullStack Developer
 - 🤌 Data Scientist
 
 ### Skills
+<!--
 <div align="center">
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />  
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
@@ -21,8 +26,16 @@ Me Chamo Paulo e aqui compartilho um pouco dos meus projetos
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 </div>
+-->
+- Mostly worked with: Python, php, Java, HTML, Css, JavaScript, SQL.<br>
+- Some knowledge in: Angular, MATLAB.
 
-### Contato
+### Get in touch
+- Email: paulfsilva7@gmail.com
+- Linkedin: /in/mrpauloj
+- Instagram: @mrpaulo_j
+
+<!--
 <div align="center">
 <a href="https://www.linkedin.com/in/mrpauloj" target="blank">
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
