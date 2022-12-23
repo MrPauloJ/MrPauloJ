@@ -33,7 +33,7 @@ I hope you enjoy it, at least a little bit.
 </div>
 -->
 - Mostly worked with: Python, php, HTML, Css, JavaScript, SQL.<br>
-- Some knowledge in: Angular, Java, MATLAB, cyber and network theory.
+- Some knowledge in: Angular, Java, MATLAB, cyberSec, network.
 
 ### Get in touch
 - Email: paulfsilva7@gmail.com
