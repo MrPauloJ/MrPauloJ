@@ -32,8 +32,8 @@ I hope you enjoy it, at least a little bit.
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 </div>
 -->
-- Mostly worked with: Python, Tex, php, HTML, Css, JavaScript, SQL.<br>
-- Some knowledge in: Angular, Java, MATLAB, cyberSec, network.
+- Mostly worked with: <br>Python, Tex, php, HTML, Css, JavaScript, SQL.<br>
+- Some knowledge in: <br>Angular, Java, MATLAB, cyberSec, network.
 
 ### Get in touch
 - Email: paulfsilva7@gmail.com
