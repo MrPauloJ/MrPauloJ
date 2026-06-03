@@ -10,7 +10,7 @@ Based in Brazil · Open to opportunities worldwide.
 - Applied Econometrics & Economic Research
 
 ## Research
-- [Economic Uncertainty and Regional Activity in Brazil](link) — undergraduate thesis, UFPE
+- [Economic Uncertainty and Regional Activity in Brazil](https://github.com/MrPauloJ/Economic-Uncertainty-Paper) — undergraduate thesis, UFPE
 
 ## Tools
 Python · R · SQL · LaTeX
